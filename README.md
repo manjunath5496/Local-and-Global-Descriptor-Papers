@@ -54,7 +54,7 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(29).pdf" style="text-decoration:none;">Fine-tuning CNN Image Retrieval with No Human Annotation </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(30).pdf" style="text-decoration:none;">Ecient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(30).pdf" style="text-decoration:none;">Efficient Neighbourhood Consensus Networks via Submanifold Sparse Convolutions</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(31).pdf" style="text-decoration:none;">TILDE: A Temporally Invariant Learned DEtector</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(32).pdf" style="text-decoration:none;">D2-Net: A Trainable CNN for Joint Description and Detection of Local Features</a></li> 
@@ -105,91 +105,81 @@ A Procrustean Approach to Learning Binary Codes for Large-scale Image Retrieval<
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(60).pdf" style="text-decoration:none;">ACTNET: end-to-end learning of feature activations and multi-stream aggregation for effective instance image retrieval </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(61).pdf" style="text-decoration:none;">SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(62).pdf" style="text-decoration:none;">Repeatability Is Not Enough: Learning Affine Regions via Discriminability</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(63).pdf" style="text-decoration:none;">Deep Global Registration</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(64).pdf" style="text-decoration:none;">Matching Features without Descriptors: Implicitly Matched Interest Points</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(65).pdf" style="text-decoration:none;">Learning to Compare Image Patches via Convolutional Neural Networks </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(66).pdf" style="text-decoration:none;">Detect-to-Retrieve: Efficient Regional Aggregation for Image Search</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(67).pdf" style="text-decoration:none;">Making Affine Correspondences Work in Camera Geometry Computation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(68).pdf" style="text-decoration:none;">DeepPoint3D: Learning Discriminative Local Descriptors using Deep Metric Learning on 3D Point Clouds</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(69).pdf" style="text-decoration:none;">DAME WEB: DynAmic MEan with Whitening Ensemble Binarization for Landmark Retrieval without Human Annotation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(70).pdf" style="text-decoration:none;">Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(71).pdf" style="text-decoration:none;">StickyPillars: Robust and Efficient Feature Matching on Point Clouds using Graph Neural Networks</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(72).pdf" style="text-decoration:none;">MAGSAC: Marginalizing Sample Consensus</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(73).pdf" style="text-decoration:none;">Robust Feature Matching with Alternate Hough and Inverted Hough Transforms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(74).pdf" style="text-decoration:none;">Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(75).pdf" style="text-decoration:none;">CLKN: Cascaded Lucas-Kanade Networks for Image Alignment</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(76).pdf" style="text-decoration:none;">Improving Image-Based Localization by Active Correspondence Search</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(77).pdf" style="text-decoration:none;">Object retrieval with large vocabularies and fast spatial matching</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(78).pdf" style="text-decoration:none;">ELF: Embedded Localisation of Features in Pre-Trained CNN</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(79).pdf" style="text-decoration:none;">Matching with PROSAC – Progressive Sample Consensus</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(80).pdf" style="text-decoration:none;">HPatches: A benchmark and evaluation of handcrafted and learned local descriptors</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(81).pdf" style="text-decoration:none;">DeepCD: Learning Deep Complementary Descriptors for Patch Representations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(82).pdf" style="text-decoration:none;">Deep Metric Learning to Rank</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(83).pdf" style="text-decoration:none;">Product Quantization for Nearest Neighbor Search</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(84).pdf" style="text-decoration:none;">Working hard to know your neighbor's margins: Local descriptor learning loss</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(85).pdf" style="text-decoration:none;">All about VLAD</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(86).pdf" style="text-decoration:none;">A Metric Learning Reality Check</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(87).pdf" style="text-decoration:none;">To aggregate or not to aggregate: Selective match kernels for image search</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(88).pdf" style="text-decoration:none;">Progressive Feature Matching with Alternate Descriptor Selection and Correspondence Enrichment</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(89).pdf" style="text-decoration:none;">BOLD - Binary Online Learned Descriptor For Efficient Image Matching</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(90).pdf" style="text-decoration:none;"> MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(91).pdf" style="text-decoration:none;">Metric learning: cross-entropy vs. pairwise losses</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(92).pdf" style="text-decoration:none;">SOSNet: Second Order Similarity Regularization for Local Descriptor Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(93).pdf" style="text-decoration:none;"> Learning Discriminative and Transformation Covariant Local Feature Detectors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(94).pdf" style="text-decoration:none;">PN-Net: Conjoined Triple Deep Network for Learning Local Image Descriptors</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(95).pdf" style="text-decoration:none;">L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(96).pdf" style="text-decoration:none;">Hashing as Tie-Aware Learning to Rank</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(97).pdf" style="text-decoration:none;">Three things everyone should know to improve object retrieval</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(98).pdf" style="text-decoration:none;">Learning local feature descriptors with triplets and shallow convolutional neural networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(99).pdf" style="text-decoration:none;">Comparative Evaluation of Hand-Crafted and Learned Local Features</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Local-and-Global-Descriptor-Papers/blob/master/l(100).pdf" style="text-decoration:none;">Improving the Fisher Kernel for Large-Scale Image Classification</a></li>  
   
  </ul>
